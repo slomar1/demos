@@ -1,6 +1,7 @@
 # Simple monthly expense tracker.
 # I know it has been over-done to hell, but I've never done one.
 # "Here. We. Go" - Fabrizio Romano.
+# Added a few things here and there. Maybe with the help of ChatGPT...
 
 
 # Get a valid number from the user
